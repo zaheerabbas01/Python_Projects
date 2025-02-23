@@ -40,11 +40,11 @@ A simple typing speed game built with **CustomTkinter** and **Pandas** for track
 
 ## 📸 Screenshots
 
-![Screenshot][typo_master/screenshots/main_page.png]
+![main page](typo_master/screenshots/main_page.png)
 
-![players data][typo_master/screenshots/players_data.png]
-![score card][typo_master/screenshots/score_page.png]
-![typing page][typo_master/screenshots/typing_page.png]
+![players data](typo_master/screenshots/players_data.png)
+![score card](typo_master/screenshots/score_page.png)
+![typing page](typo_master/screenshots/typing_page.png)
 
 ---
 
