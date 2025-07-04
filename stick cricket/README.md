@@ -35,8 +35,6 @@ A fun, cartoon-style cricket mini-game built with **Pygame** where you can bat a
 
 ## 📷 Screenshots
 
-> Add your own screenshots inside an `images` folder in your repo.
-
 <p float="left">
   <img src="images/Screenshot2.png" width="45%" />
   <img src="images/Screenshot3.png" width="45%" />
