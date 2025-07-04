@@ -24,7 +24,9 @@ As a child, I loved the game where we connected dots to create boxes. This proje
 ![Game Menu](images/menu.png)
 
 ### 🔴🟦 In-Game UI  
-![Game Board](images/gameplay.png)
+![Game Board](images/Screenshot1.png)
+![Game Board](images/Screenshot2.png)
+![Game Board](images/Screenshot3.png)
 
 ---
 
