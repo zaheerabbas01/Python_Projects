@@ -7,7 +7,7 @@ A fun, cartoon-style cricket mini-game built with **Pygame** where you can bat a
 ## 🎮 Game Preview
 
 <p align="center">
-  <img src="images/screenshot (813).png" alt="Game Screenshot" width="600"/>
+  <img src="images/screenshot1.png" alt="Game Screenshot" width="600"/>
 </p>
 
 > Replace `images/screenshot (813).png` with the path to your actual screenshot
@@ -40,8 +40,8 @@ A fun, cartoon-style cricket mini-game built with **Pygame** where you can bat a
 > Add your own screenshots inside an `images` folder in your repo.
 
 <p float="left">
-  <img src="images/screenshot (814).png" width="45%" />
-  <img src="images/screenshot (815).png" width="45%" />
+  <img src="images/screenshot2.png" width="45%" />
+  <img src="images/screenshot3.png" width="45%" />
 </p>
 
 ---
